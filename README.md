@@ -1,4 +1,4 @@
-# NASA Mission Control Project
+# NASA-Mission-Control
 
 ## Getting Started
 
@@ -15,9 +15,5 @@
 ## Running the Tests
 
 To run any automated tests, run `npm test`. This will: 
-* Run all the client-side tests: `npm test --prefix client`
-* Run all the server-side tests: `npm test --prefix server` 
-# NASA-Mission-Control-ExpressJS
-# NASA-Mission-Control-ExpressJS
-# NASA-Mission-Control
-# NASA-Mission-Control
+* Run all the client-side tests: `npm test --prefix=client`
+* Run all the server-side tests: `npm test --prefix=server`
